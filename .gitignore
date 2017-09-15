@@ -13,6 +13,7 @@ target
 mule-project.xml
 .mule
 catalog
+.metadata
 
 #-----------#
 # Mac Files #
